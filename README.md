@@ -1,4 +1,4 @@
-Instructions from Giahuy Gonzalez
+# Instructions from Giahuy Gonzalez
 
 Open your terminal and then type (I used visual studio code for my react apps)
 
@@ -16,11 +16,11 @@ To run the React project.
 $ npm start
 
 You are done! Now you can start editing the React project in the new folder that's created
+This will open a localhost in your browser, if it didnt just do localhost:3000 and the graph will pop up
 
 
 
-
-#Instructions from React
+# Instructions from React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
