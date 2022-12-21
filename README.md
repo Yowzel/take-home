@@ -1,3 +1,26 @@
+Instructions from Giahuy Gonzalez
+
+Open your terminal and then type (I used visual studio code for my react apps)
+
+$ git clone {the url to the GitHub repo}
+
+This clones the repo
+
+cd into the new folder and type
+
+$ npm install
+
+This installs the required dependencies
+
+To run the React project.
+$ npm start
+
+You are done! Now you can start editing the React project in the new folder that's created
+
+
+
+
+#Instructions from React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
